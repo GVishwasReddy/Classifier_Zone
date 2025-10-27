@@ -1,4 +1,4 @@
-tensorflow==2.14
+tensorflow==2.20.0
 image-classifiers
 gdown
 PyMuPDF
@@ -6,5 +6,5 @@ segmentation-models
 pandas
 matplotlib
 scikit-learn
-numpy<2.0
+numpy
 albumentations

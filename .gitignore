@@ -116,3 +116,7 @@ dmypy.json
 
 # data
 data/
+input/
+notebooks/
+
+
