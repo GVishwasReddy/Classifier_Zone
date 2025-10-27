@@ -59,6 +59,16 @@ If you already have a trained model (`models/model.h5`) and want to run predicti
     ```
     *The script will load the saved model and display predictions on a few random images from the test set.*
 
+## Datasets
+
+This project utilizes several semantic segmentation datasets:
+
+*   **Semantic Drone Dataset:** [Kaggle](https://www.kaggle.com/bulentsiyah/semantic-drone-dataset)
+*   **Urban Segmentation ISPRS:** [ISPRS Website](https://www.isprs.org/)
+*   **OpenEarthMap (Global Land Cover Mapping):** [OpenEarthMap Website](https://open-earth-map.org)
+*   **Swiss Drone and Okutama Drone Datasets:** [Okutama Segmentation](https://okutama-segmentation.org)
+*   **Semantic Segmentation of Aerial Imagery:** [Kaggle](https://www.kaggle.com/datasets/bulentsiyah/semantic-segmentation-of-aerial-imagery)
+
 ## Model Details
 
 *   **Architecture:** U-Net with ResNet50 backbone.
