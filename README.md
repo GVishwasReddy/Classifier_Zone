@@ -1,4 +1,4 @@
-# Semantic Segmentation of Aerial Imagery
+# Semantic Segmentation Based Optimal Drone Landing Zone
 
 This project focuses on semantic segmentation of aerial imagery using a U-Net model with a ResNet50 backbone. The goal is to accurately identify and classify different objects and regions within aerial images.
 
